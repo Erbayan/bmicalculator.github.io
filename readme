@@ -15,7 +15,7 @@ This BMI (Body Mass Index) calculator is a web application that helps users asse
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/Erbayan/Bmi/tree/master
 
 ## Dependencies
 - Express.js: Fast, unopinionated, minimalist web framework for Node.js.

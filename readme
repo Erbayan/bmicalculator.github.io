@@ -10,13 +10,6 @@ This BMI (Body Mass Index) calculator is a web application that helps users asse
 - View BMI classification with corresponding health categories.
 - Visualize BMI classification through a bar chart representation.
 
-## Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/Erbayan/Bmi/tree/master
-
 ## Dependencies
 - Express.js: Fast, unopinionated, minimalist web framework for Node.js.
 - Chart.js: Simple yet flexible JavaScript charting library for designers and developers.

@@ -29,7 +29,7 @@ function calculateBMIForMetric(height, weight) {
 }
 
 function calculateBMIForImperial(height, weight) {
-    return ((weight / Math.pow((height/100), 2)) * 703).toFixed(2);
+    return ((weight / Math.pow((height), 2)) * 703).toFixed(2);
 }
 
 function getBMIClassification(bmi) {
